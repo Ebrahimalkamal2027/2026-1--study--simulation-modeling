@@ -12,6 +12,8 @@ packages = [
 "Plots", # Визуализация
 "StatsPlots",
 "DataFrames", # Таблицы данных
+"FFTW",
+"Statistics",
 "CSV", # Работа с CSV
 "JLD2", # Сохранение данных
 "Literate", # Literate programming
