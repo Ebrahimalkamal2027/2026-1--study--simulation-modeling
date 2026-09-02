@@ -16,7 +16,6 @@ mkpath(datadir(script_name))
 
 ```{julia}
 #𝑑𝑢/𝑑𝑡 = 𝛼𝑢, 𝑢(0) = 𝑢0
-jupyter notebook
 function exponential_growth!(du, u, p, t)
 α = p
 du[1] = α * u[1]
