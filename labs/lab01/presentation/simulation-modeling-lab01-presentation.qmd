@@ -1,10 +1,10 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
-  degrees: DSc
-  orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  name: Ибрахим Мохсейн Алькамаль
+  degrees: Student (3 курс)
+  orcid: ""
+  email: 1032225432@rudn.ru
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Структура научной презентации
-subtitle: Простейший вариант
+title: Лабораторная работа №1
+subtitle: Имитационное моделирование
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
@@ -26,17 +26,11 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры теории вероятностей и кибербезопасности
-  * Российский университет дружбы народов им. П. Лумумбы
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * Ибрахим Мохсейн Алькамаль
+  * Российский университет дружбы народов
 
 :::
 ::: {.column width="30%"}
-
-![](./image/kulyabov.jpg)
 
 :::
 ::::::::::::::
